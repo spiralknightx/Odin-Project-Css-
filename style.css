@@ -1,17 +1,12 @@
-.pinkgang{
-    background: pink;
-    font-family: Verdana, DejaVu sans, sans-serif;
+.btns{
+    font-family: Helvetica, sans-serif, Times New Roman;
+    font-size: 28px;
 }
 
-#num2{
-    color: blue;
-    font-size: 36px;
+#btn1{
+    background:black;
+    color: white;
 }
-#num3{
-    font-size: 24px;
-}
-#num4{
-    background-color: lightgreen;
-    font-size: 24px;
-    font-weight: bold;
+#btn2{ 
+    background: yellow;
 }
