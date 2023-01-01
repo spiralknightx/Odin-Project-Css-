@@ -1,12 +1,8 @@
-.btns{
-    font-family: Helvetica, sans-serif, Times New Roman;
-    font-size: 28px;
+.avatar,.distorted{
+    width: 200px;
+    height: 400px;
 }
-
-#btn1{
-    background:black;
-    color: white;
-}
-#btn2{ 
-    background: yellow;
+.avatar,.proportioned{
+    width: 300px;
+    height: auto;
 }
