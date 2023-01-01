@@ -1,7 +1,17 @@
-.ext-method{
-    font-size: 32px;
-    color: white;
-    background-color: red;
+.pinkgang{
+    background: pink;
+    font-family: Verdana, DejaVu sans, sans-serif;
+}
+
+#num2{
+    color: blue;
+    font-size: 36px;
+}
+#num3{
+    font-size: 24px;
+}
+#num4{
+    background-color: lightgreen;
+    font-size: 24px;
     font-weight: bold;
-    text-align: center;
 }
